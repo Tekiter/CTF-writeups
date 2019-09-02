@@ -13,7 +13,7 @@
 
 ## 풀이
 
-Meow.n 파일은 [Neko VM](https://nekovm.org) 에서 실행 가능한 바이트코드 파일이다. 
+Meow.n 파일은 [Neko VM](https://nekovm.org) 에서 실행 가능한 바이트코드 파일이다. 또한 이 바이트코드는 [Haxe](https://haxe.org/)로 작성되어, neko로 컴파일된 파일이다.
 `neko Meow.n` 명령으로 이 파일을 실행해 보면 다음과 같은 문자열이 출력된다:
 `Usage: meow INPUT OUTPUT`.
 
