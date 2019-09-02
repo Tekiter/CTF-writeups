@@ -5,9 +5,8 @@
 
 ## 문제
 
-문제 파일로는 Meow.n 파일과 다음 이미지가 주어졌다.
+문제 파일로는 Meow.n 파일과 `flag_enc.png` 파일이 주어졌다.
 
-**flag_enc.png**
 ![image_encrypted](image/input.png)
 
 
