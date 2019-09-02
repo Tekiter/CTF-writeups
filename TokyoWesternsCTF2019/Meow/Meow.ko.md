@@ -48,7 +48,7 @@ Meow.n 파일은 [Neko VM](https://nekovm.org) 에서 실행 가능한 바이트
 000C98   2154    AccField println
 000C9A   2155    ObjCall 1
 ```
-2967번 코드를 보면 AccGlobal 100 명령으로 문자열을 가져오고 이를 println 명령으로 출력하는 루틴으로 추정할 수 있다. 따라서 이 코드가 있는 부분이 main이다.
+2145번 코드를 보면 AccGlobal 100 명령으로 문자열을 가져오고 이를 println 명령으로 출력하는 루틴으로 추정할 수 있다. 따라서 이 코드가 있는 부분이 main이다.
 
 ```
 000C7B   2136    AccGlobal 99
